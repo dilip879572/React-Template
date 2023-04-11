@@ -1,38 +1,216 @@
-.App {
+.logo{
+  height: 40px;
+  width: 200px;
+}
+.nav{
+  background-color: white;
+}
+.logo1{
+  margin-top: 7px;
+  height: 25px;
+  width: 25px;
+  transform: translateX(-330px)
+}
+.search-input{
+  width: 500px;
+  transform: translateX(-300px);
+}
+.num{
+  height: 30px;
+  width: 30px;
   text-align: center;
+  border-radius: 50%;
+  margin-top: 120px;
+  margin-left: 10px;
+  border: 1px solid #3bb3bd;
+  background-color: #3bb3bd;
+}
+.img{
+  height: 40px;
+  width: 40px;
+  border-radius: 12px;
+  transform: translateX(-200px);
+}
+.sre{
+  transform: translateX(-200px);
+}
+.bell{
+  color: blueviolet;
+  transform: translateX(-120px);
+  margin-top: 5px;
+  height: 40px ;
+  width: 40px;
+  padding: 6px;
+  border-radius: 5px;
+  background-color: rgba(76, 68, 161, 0.3);
+}
+.dio
+{
+  margin-left: 280px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.name
+{
+  transform: translateX(-150px);
+  color: black;
+  
+  
+ 
+}
+.text{
+  font-weight: 500;
+  padding-left: 50px;
+}
+.start{
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.hpic{
+  height: 500px;
+  width: 550px;
+}
+.head{
+  background-color: white;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+.text2
+{
+  text-align: center;
+  transform: translateY(-20px);
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+.logo2
+{
+
+  height: 20px;
+  width: 20px;
+  transform: translateY(-30px);
+  margin-left: 530px;
+  
+}
+.text3
+
+{
+  color:#7c7c7c ;
+  margin: 10px auto;
+  padding: 6px;
+}
+.logo4
+{
+  height: 34px;
+  width: 34px;
+  background-color: #3bb3bd;
+  border-radius: 30px;
   color: white;
+  margin-bottom: 30px;
+}
+.dil{
+  margin-bottom: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.top
+{
+  width: 30px;
+  height: 30px;
+  background-color:#3eb4be;
+  border-radius: 30px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.box1
+{
+  border: 0.5px solid black;
+  height: 150px;
+  width: 50px;
+  box-shadow: 2px 1px 2px 1px black;
+  box-sizing: border-box;
+  padding:20px;
+  margin: 9px;
+}
+
+.me{
+  color: #5e5e5e;
+}
+.logo7
+{
+  height: 35px;
+  width: 35px;
+  background-color: #3bb3bd;
+  margin-left: 120px;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.dilp{
+  color: #5e5e5e;
+  font-weight: 50px;
+font-size: 20px;
+padding-top: 20px;
+}
+
+.cap
+{
+  height: 55px;
+  width: 55px;
+  color: #3bb3bd;
+
+border-radius: 20px;
+}
+
+.logo9
+{
+  height: 60px;
+  width: 60px;
+  background-color: #3bb3bd;
+  border-radius: 50px;
+}
+.polo
+{
+  padding-top:20px;
+}
+.pic3
+{
+  height: 90px;
+  width: 100px;
+  border-radius: 20px;
+}
+.dilip
+{
+  height: 250px;
+  width: 370px;
+  margin-left: 200px;
+  border-radius: 10px;
+
+}
+
+.dilip1
+{
+  margin-left: 30px;
+  border-radius: 20PX;
+}
+.bos
+{
+  height: 450px;
+  width: 100%;
+  border-radius: 10px;
+}
+.logo21
+{
+  height: 60px;
+  width: 60px;
+  transform: translateX(-290px);
+  transform: translateY(-60px);
+  margin-right: 390px;
+  color: #3bb3bd;
+  margin-bottom: 50px;
+  
+}
+.big{
+  height: 40px;
+  width: 40px;
+  color: #3bb3bd;
+
+}
+.fon{
+  color: black;
 }
